@@ -7,8 +7,6 @@ You should find the number computer guessed
 Just run "python main.py" in cmd command line after setting the project directory
 
 ### Here you can see sample
-![Image](./image.png)
+![Image](https://github.com/snbu229/Number-guessing/blob/main/num%20gue.png)
 
-## *Author Name*
 
-[Javokhir](https://github.com/leader2one/)
